@@ -1,3 +1,5 @@
+Used the [Tutorial: Tic Tac Toe](https://react.dev/learn/tutorial-tic-tac-toe) to create this project.
+------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
